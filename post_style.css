@@ -1,0 +1,25 @@
+/* post_style.css */
+
+/* 포스트 본문 글씨체 및 색상 */
+.post-body {
+  font-family: "Ownglyph_corncorn-Rg", sans-serif; /* 포스트 내용 글씨체 */
+  font-size: 1.125rem;
+  line-height: 1.8;
+  padding: 0 2rem;
+  color: #e0e0e0; /* 글씨 색상 */
+}
+
+/* 본문 링크 스타일 */
+.post-body a {
+  color: #3498db;
+  text-decoration: underline;
+}
+
+.post-body a:hover {
+  color: #2980b9;
+}
+
+footer p {
+  font-size: 0.9rem;
+  color: #bbb;
+}
